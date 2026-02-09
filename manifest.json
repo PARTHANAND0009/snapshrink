@@ -1,0 +1,21 @@
+{
+  "name": "SnapShrink: Image Compressor",
+  "short_name": "SnapShrink",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F2F2F7",
+  "theme_color": "#FFFFFF",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://placehold.co/192x192/007AFF/ffffff.png?text=SS",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://placehold.co/512x512/007AFF/ffffff.png?text=SS",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
